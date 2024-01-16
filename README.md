@@ -1,0 +1,2 @@
+# cctools
+Cookie clicker tools
